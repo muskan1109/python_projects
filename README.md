@@ -7,7 +7,7 @@ Disclaimer: not all code is written by myself. The base code was provided by the
 python3 <filename>
 ```
 
-Below is a short description of each program and how to run each program:
+Below is a short description of each program:
 
 **Program 1:** <br>
 Using the turtle library to create different circle patterns. Includes 5 .py files. 
