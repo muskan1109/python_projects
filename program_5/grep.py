@@ -176,8 +176,8 @@ def main():
     args = sys.argv[1:]             
 
     if len(args) != 1:
-        print("usage")
-        return 
+        print("Use:\n\tpython3 grep.py <path>")
+        return
 
     files = get_filenames(args[0])
 
